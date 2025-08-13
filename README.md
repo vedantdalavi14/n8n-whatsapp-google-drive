@@ -24,7 +24,11 @@ A robust n8n workflow that transforms WhatsApp into a powerful, conversational a
 
 ### 🎬 Demo Video
 
-**[(https://youtu.be/eb-2MWl5i84)]**
+
+https://github.com/user-attachments/assets/47ff293d-d4c4-4c42-a41a-a1fa4fe1af68
+
+
+**[https://youtu.be/4kzTz2SnuIo]**
 
 *(A brief video demonstrating the assistant in action, showing a WhatsApp conversation and the corresponding changes in Google Drive and the Google Sheets log.)*
 
